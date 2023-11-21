@@ -24,7 +24,7 @@ Sou um desenvolvedor apaixonado em aprender coisas novas, sempre buscando me esp
 
 <!-- Links para Redes Sociais -->
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/devbrunohenrique2000)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devbrunohenrique2000)
 <!-- Adicione mais links para outras redes sociais -->
 
 <!-- Ícones de Projetos -->

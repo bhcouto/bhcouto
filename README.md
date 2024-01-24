@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado em aprender coisas novas, sempre buscando me esp
 
 <!-- Sobre Mim -->
 ## Sobre Mim
-- 🌱 Atualmente, estou aprendendo Node.js.
+- 🌱 Atualmente, trabalho com javascript, react, node e mysql
 
 <!-- Tecnologias -->
 ## Tecnologias
